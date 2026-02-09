@@ -1,13 +1,12 @@
-# 👋 Maxime Torgue
+<h1 align="center">👋 Maxime Torgue</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/42-Paris-black?style=flat-square&logo=42" />
-  <img src="https://img.shields.io/badge/Backend-Full--Stack-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open_to_Work-Yes-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/42-Paris-black?style=for-the-badge&logo=42&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximetorgue&show_icons=true&theme=dark&hide_border=true" />
+  Développeur <strong>Backend / Full-Stack junior</strong> · Étudiant à <strong>42 Paris</strong><br/>
+  Intéressé par le <strong>cloud</strong>, le <strong>backend</strong> et les <strong>environnements propres et automatisés</strong>
 </p>
 
 ---
@@ -19,93 +18,100 @@ j’ai entrepris une **reconversion vers le développement logiciel** avec une v
 
 > **Construire des applications fiables, maintenables et utiles.**
 
-Je m’intéresse particulièrement au **backend**, à l’architecture applicative  
-et à la mise en place d’environnements propres et automatisés.
+Curieux et pragmatique, j’aime comprendre les systèmes en profondeur,  
+concevoir des architectures solides et automatiser ce qui peut l’être.
 
 ---
 
-## 🛠️ Stack principale
+## 🛠️ Langages & technologies
 
-### 💻 Langages & Frameworks
+### 💻 Langages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### 🗄️ Backend & Data
+### 🌐 Frameworks & Runtime
 <p>
-  <img src="https://img.shields.io/badge/API_REST-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/Auth-JWT-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL%20%7C%20NoSQL-Database-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### ⚙️ DevOps & Environnement
+### ⚙️ DevOps / Cloud / Système
 <p>
-  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Docker_Compose-black?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ---
 
 ## 📂 Projets école 42
 
-### 🚧 En cours
-- **Transcendence**  
-  Application web full-stack (frontend + backend + base de données)  
-  Déploiement via conteneurisation, support multi-utilisateurs et temps réel  
+<h3 align="center">🚀 En cours</h3>
+
+### ☁️ Cloud-1
+- Introduction aux concepts cloud
+- Infrastructure, réseau, services
+- Approche cloud-native
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Cloud-Foundations-0078D4?style=for-the-badge" />
 </p>
 
-### 🧪 Récents
+---
+
+### 🌐 Inception of Things
+- Infrastructure distribuée
+- Conteneurisation et orchestration
+- Déploiement automatisé
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">🧪 Projets récents</h3>
+
 - **Inception** — micro-services, Nginx, Docker, Docker Compose  
 - **Webserv** — serveur HTTP en C++  
 - **Minishell** — shell POSIX en C  
 - **Philosophers** — programmation concurrente  
 
 <p>
-  <img src="https://img.shields.io/badge/C-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/C++-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ---
 
-## 📱 Projets personnels
+## 📱 Projet personnel
 
 ### 🏠 ImmoZen
-> Application mobile de gestion locative pour propriétaires
+Application mobile de gestion locative pour propriétaires
 
 - Backend Node.js
-- Gestion des utilisateurs & e-mails
-- Intégration du paiement
-- Application mobile iOS / Android
+- Gestion utilisateurs & e-mails
+- Intégration paiement
+- Mobile iOS / Android
 
 <p>
-  <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 Ce que j’aime dans le dev
-
-- Concevoir des **architectures backend solides**
-- Comprendre les systèmes en profondeur
-- Automatiser et améliorer les workflows
-- Travailler en équipe et partager les connaissances
-
----
-
-## 🤝 Contact & opportunités
+## 🤝 Contact
 
 <p>
-  <img src="https://img.shields.io/badge/Open_to_Work-Backend%20%2F%20Full--Stack-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to_Work-Yes-success?style=for-the-badge" />
 </p>
 
 - 💼 LinkedIn : https://www.linkedin.com/in/maxime-torgue/
@@ -113,4 +119,4 @@ et à la mise en place d’environnements propres et automatisés.
 
 ---
 
-⭐ Merci d’être passé, n’hésite pas à explorer mes projets !
+⭐ Merci d’avoir pris le temps de visiter mon profil !
