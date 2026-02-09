@@ -1,22 +1,26 @@
-# 👋 Salut, moi c’est Maxime
+# 👋 Maxime Torgue
 
 <p align="center">
   <img src="https://img.shields.io/badge/42-Paris-black?style=flat-square&logo=42" />
-  <img src="https://img.shields.io/badge/Status-Student-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%2F%20Full--Stack-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Full--Stack-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to_Work-Yes-success?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maximetorgue&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 À propos
 
 Après un parcours professionnel riche et varié (artisanat, animation, management),  
 j’ai entrepris une **reconversion vers le développement logiciel** avec une volonté claire :
 
 > **Construire des applications fiables, maintenables et utiles.**
 
-Curieux, rigoureux et orienté solutions, j’aime comprendre les systèmes en profondeur  
-et mettre en place des architectures propres et évolutives.
+Je m’intéresse particulièrement au **backend**, à l’architecture applicative  
+et à la mise en place d’environnements propres et automatisés.
 
 ---
 
@@ -24,73 +28,89 @@ et mettre en place des architectures propres et évolutives.
 
 ### 💻 Langages & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react" />
 </p>
 
 ### 🗄️ Backend & Data
 <p>
   <img src="https://img.shields.io/badge/API_REST-005571?style=flat-square" />
   <img src="https://img.shields.io/badge/Auth-JWT-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database-SQL%20%7C%20NoSQL-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL%20%7C%20NoSQL-Database-informational?style=flat-square" />
 </p>
 
 ### ⚙️ DevOps & Environnement
 <p>
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Docker_Compose-000000?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Docker_Compose-black?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=github" />
 </p>
 
 ---
 
-## 📂 Projets mis en avant
+## 📂 Projets école 42
 
-### 🏠 ImmoZen — Projet personnel
+### 🚧 En cours
+- **Transcendence**  
+  Application web full-stack (frontend + backend + base de données)  
+  Déploiement via conteneurisation, support multi-utilisateurs et temps réel  
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" />
+</p>
+
+### 🧪 Récents
+- **Inception** — micro-services, Nginx, Docker, Docker Compose  
+- **Webserv** — serveur HTTP en C++  
+- **Minishell** — shell POSIX en C  
+- **Philosophers** — programmation concurrente  
+
+<p>
+  <img src="https://img.shields.io/badge/C-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-black?style=flat-square" />
+</p>
+
+---
+
+## 📱 Projets personnels
+
+### 🏠 ImmoZen
 > Application mobile de gestion locative pour propriétaires
 
+- Backend Node.js
+- Gestion des utilisateurs & e-mails
+- Intégration du paiement
+- Application mobile iOS / Android
+
 <p>
-  <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Emails-Automation-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Paiement-Integration-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
 </p>
 
 ---
 
-### 🎓 Transcendence — Projet école 42
-> Projet full-stack réalisé dans le cadre de 42
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Teamwork-Agile-orange?style=flat-square" />
-</p>
-
----
-
-## 🧠 Ce que j’aime particulièrement
+## 🧠 Ce que j’aime dans le dev
 
 - Concevoir des **architectures backend solides**
-- Résoudre des **problématiques techniques concrètes**
-- Optimiser les workflows et automatiser
+- Comprendre les systèmes en profondeur
+- Automatiser et améliorer les workflows
 - Travailler en équipe et partager les connaissances
 
 ---
 
-## 🤝 Ouvert aux opportunités
+## 🤝 Contact & opportunités
 
 <p>
-  <img src="https://img.shields.io/badge/Open_to_Work-Yes-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Role-Backend%20%2F%20Full--Stack-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to_Work-Backend%20%2F%20Full--Stack-success?style=flat-square" />
 </p>
 
-📫 **Me contacter**
-- LinkedIn : https://www.linkedin.com/in/maxime-torgue/
-- GitHub : tu y es déjà 😉
+- 💼 LinkedIn : https://www.linkedin.com/in/maxime-torgue/
+- 📬 Mail : torgue.maxime@gmail.com
 
 ---
 
-⭐ N’hésite pas à explorer mes repos, laisser une étoile ou échanger !
+⭐ Merci d’être passé, n’hésite pas à explorer mes projets !
